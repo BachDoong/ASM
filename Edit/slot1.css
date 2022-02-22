@@ -1,0 +1,99 @@
+.slot1 {
+    position: relative;
+    min-width: 1200px;
+    background-color: #666666;
+}
+.ar1 {
+    position: relative;
+    margin-right: 1%;
+    margin-left: 5%;
+    width: 64%;
+    height: 645px;
+    float: left;
+}
+.btvdecu16 a:hover {
+    color: #b78a28;
+}
+.btvdecu {
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #C9F0F5;
+}
+.btvdecu a{
+    color: #1290A0;
+    text-decoration: none;
+}
+.ar1 hr {
+    min-width: 409px;
+}
+.btvdecu1 {
+    position: relative;
+    margin-top: 10px;
+    margin-right: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.btvdecu2 {
+    position: relative;
+    margin-top: 10px;
+    margin-left: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.btvdecu3 {
+    position: relative;
+    margin-right: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.btvdecu4 {
+    position: relative;
+    margin-left: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.ar1 .tentruyen{
+    position: absolute;
+    margin-top: 10px;
+    padding-left: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+.ar1 .tacgia {
+    position: absolute;
+    left: 102px;
+    top: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+    color: #666666;
+    font-size: 20px;
+}
+.banner {
+    width: 72px;
+    height: 96px;
+}
+.ar1 .imgtacgia {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding-left: 8px;
+    top: 55px;
+}
+.gioithieu {
+    line-height: 20px;
+    margin-right:5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #666666;
+}

@@ -1,0 +1,133 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.header {
+    position: relative;
+    background: #F1F1F1;
+    min-width: 1200px;
+}
+.title {
+    position: absolute;
+    left: 70px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 100px;
+    color: #FF0000;
+    margin-top: -100px;
+}
+.login {
+    position: absolute;
+    top: 30px;
+    right: 10px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+}
+.login a {
+    text-decoration: none;
+    color: rgb(114, 107, 107);
+    padding: 0 10px;
+    line-height: 40px;
+}
+.login a:hover {
+    color: orangered;
+}
+.box {
+    position: absolute;
+    height: 20px;
+    top: 30px;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: #FFFAFA;
+    border-radius: 50px;
+    padding: 10px;
+}
+.sbutton {
+    color: #b78a28;
+    float: right;
+    width: 40px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: 0.4s;
+}
+.stext {
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    color: #555;
+    font-size: 15px;
+    transition: 0.4s;
+    line-height: 20px;
+    width: 300px;
+    padding: 0 5px;
+}
+.menu {
+    position: absolute;
+    top: 84px;
+    left: 50%;
+    font-style: normal;
+    transform: translate(-50%,-50%);
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    z-index: 1;
+}
+.menu > li {
+    display: inline-block;
+    position: relative;
+}
+.menu > li > a {
+    display: block;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(114, 107, 107);
+    padding: 0 10px;
+    line-height: 40px;
+}
+.menu li a:hover {
+    background-color: #ececec;
+    color: orangered;
+}
+.menu .menutl{
+    position: absolute;
+    display: none;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    width: 130px;
+    background-color: #F1F1F1;
+    box-shadow: 0 0 1px gray;
+    text-align: left;
+}
+.menu .menubxh{
+    position: absolute;
+    display: none;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    width: 178px;
+    box-shadow: 0 0 1px gray;
+    background-color: #F1F1F1;
+}
+.menu ul a{
+    display: block;
+    line-height: 50px;
+    font-size: 25px;
+    color: black;
+    text-decoration: none;
+    font-size: larger;
+    padding: 0 5px;
+}
+.menu li:hover > ul{
+    display: block;
+} 
+.menu ul a:hover{
+    color: orangered;
+}

@@ -1,0 +1,77 @@
+.right{
+    position: relative;
+    margin-right: 5%;
+    width: 25%;
+    min-width: 300px;
+    height: 645px;
+    /* background-color: #666666; */
+    float: left;
+}
+.read {
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #C9F0F5;
+}
+aside hr {
+    max-width: 296px;
+}
+.read a{
+    color: #1290A0;
+    text-decoration: none;
+}
+.read1 {
+    position: relative;
+    margin-top: 10px;
+    height: 48px;
+}
+.read1 a:hover {
+    color: #b78a28;
+}
+.imgread {
+    width: 32px;
+    height: 48px;
+}
+.right .tentruyen {
+    position: absolute;
+    margin-top: 5px;
+    padding-left: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+}
+.right .dadoc {
+    position: absolute;
+    left: 32px;
+    top: 20px;
+    margin-top: 10px;
+    padding-left: 10px;
+    color: #666666;
+    font-size: 14px;
+}
+.huongdan {
+    font-weight: 600;
+    font-size: 20px;
+}
+.huongdan a {
+    text-decoration: none;
+    color: black;
+}
+.right li {
+    margin-top: 10px;
+
+}
+.right li a {
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    line-height: 22.5px;
+}
+.right li a:hover{
+    color: #b78a28;
+}

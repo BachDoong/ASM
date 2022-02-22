@@ -1,0 +1,72 @@
+.col4 hr {
+    min-width: 409px;
+}
+.btvdecu16 a:hover {
+    color: #b78a28;
+}
+.btvdecu1 {
+    position: relative;
+    margin-top: 10px;
+    margin-right: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.btvdecu2 {
+    position: relative;
+    margin-top: 10px;
+    margin-left: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.btvdecu3 {
+    position: relative;
+    margin-right: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.btvdecu4 {
+    position: relative;
+    margin-left: 0.5%;
+    width: 49.5%;
+    height: 185px;
+    float: left;
+}
+.col4 .tentruyen{
+    position: absolute;
+    margin-top: 10px;
+    padding-left: 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+.col4 .tacgia {
+    position: absolute;
+    left: 102px;
+    top: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+    color: #666666;
+    font-size: 20px;
+}
+.banner {
+    width: 72px;
+    height: 96px;
+}
+.col4 .imgtacgia {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    padding-left: 8px;
+    top: 55px;
+}
+.gioithieu {
+    line-height: 20px;
+    margin-right:5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #666666;
+}

@@ -1,0 +1,72 @@
+.ar2 {
+    position: relative;
+    clear: both;
+    min-width: 1200px;
+    padding-top: 10px;
+    height: auto;
+    /* background-color: #212529; */
+}
+.new {
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 30px;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #C9F0F5;
+}
+.new a{
+    color: #1290A0;
+    text-decoration: none;
+}
+table {
+    border-collapse:collapse;
+    margin-left: 6%;
+    margin-right: 6%;
+
+}
+tr {
+    height: 46px;
+}
+tr:hover {
+    background-color: #F1F1F1;
+}
+.ar2 .theloai {
+    width: 7%;
+    color: #999999;
+}
+.name {
+    width: 19%;
+}
+.name a {
+    text-decoration: none;
+    color: #212529;
+    font-weight: 600;
+}
+.name a:hover {
+    color: #b78a28;
+}
+.chuong {
+    width: 20%;
+}
+.chuong a {
+    text-decoration: none;
+    color: #212529;
+}
+.chuong a:hover {
+    color: #b78a28;
+}
+.ar2 .tacgia {
+    width: 13%;
+}
+.converter {
+    width: 7%;
+    color: #999999;
+}
+.tgian {
+    width: 7%;
+    text-align: right;
+    color: #999999;
+}
